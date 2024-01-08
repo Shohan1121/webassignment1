@@ -1,0 +1,364 @@
+.mainsec {
+  background-color: transparent;
+  margin: 20px 0 100px 0;
+}
+.sec1 {
+  margin: auto;
+  width: 1320px;
+  height: 600px;
+  color: white;
+  text-align: center;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("B9A1-New-Year-New-Mission/resources/Banner Image.png");
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  background-size: cover;
+  border-radius: 15px;
+}
+.sec1 h3 {
+  font-family: "Merriweather", serif;
+  font-size: 32px;
+  font-weight: 500;
+  margin: 0;
+}
+.sec1 h1 {
+  margin: 0;
+  line-height: normal;
+  font-size: 72px;
+  font-weight: 900;
+  line-height: 100%;
+}
+.mainsec2 {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+.mainsec2 h1 {
+  margin: 0 0 40px 0;
+  color: #ff0000;
+  font-size: 72px;
+}
+.mainsec2 h5 {
+  margin: 0;
+  color: #ff0000;
+  font-size: 20px;
+  font-weight: 600;
+}
+.mainsec2 h3 {
+  margin: 20px 0;
+  font-family: sans-serif;
+  font-size: 42px;
+  font-weight: 600;
+}
+.mainsec3 {
+  width: 1320px;
+  margin: auto;
+  height: 600px;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("B9A1-New-Year-New-Mission/resources/Vectorrr.png");
+  border-radius: 20px;
+  background-size: cover;
+}
+.sec3sec4 {
+  width: 1000px;
+  margin: auto;
+  display: flex;
+}
+.sec3 {
+  width: 60%;
+  height: 600px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  color: white;
+}
+.sec4 {
+  width: 40%;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  color: white;
+}
+.sec3 h1 {
+  font-family: "Merriweather", serif;
+  font-size: 68px;
+  margin: 0 0 30px 0;
+}
+.sec3 p {
+  margin: 0;
+  font-family: sans-serif;
+  font-size: 20px;
+  color: #d2ced0;
+  letter-spacing: 1px;
+  line-height: 30px;
+}
+.sec3 a {
+  margin-top: 20px;
+  text-decoration: none;
+  color: white;
+  font-size: 26px;
+  font-weight: 500;
+  padding-left: 30px;
+}
+.mainsec4 {
+  margin: 100px auto 0;
+  width: 1320px;
+  height: 482px;
+  background-image: url("B9A1-New-Year-New-Mission/resources/Vector-shadow.png");
+  border-radius: 20px;
+  background-size: cover;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+.sec5 a {
+  margin-top: 20px;
+  text-decoration: none;
+}
+.sec5 a button {
+  padding: 15px 25px;
+  font-size: 18px;
+  font-weight: 500;
+  border-radius: 10px;
+  border-color: transparent;
+  background-color: #ff0000;
+  color: white;
+  cursor: pointer;
+}
+.mainsec5 {
+  margin: 0px auto;
+  width: 1320px;
+  height: 463px;
+}
+.sec6sec7sec8 {
+  display: flex;
+}
+.sec6 {
+  width: 35%;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+.sec7 {
+  width: 30%;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  border: 15px solid red;
+  border-radius: 60%;
+  padding: 30px 30px;
+  margin: 100px;
+}
+.sec8 {
+  width: 35%;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+.sec6 h5 {
+  color: #ff0000;
+  font-size: 24px;
+  margin: 10px;
+}
+.sec6 h3 {
+  font-size: 48px;
+  font-family: "Merriweather", serif;
+  margin: 10px;
+}
+.sec6 p {
+  color: #918f90;
+  font-family: sans-serif;
+  font-size: 18px;
+  line-height: 24px;
+  margin: 10px;
+}
+.sec8 h3 {
+  margin-top: 0 0 0 0;
+  font-size: 48px;
+  color: #ff0000;
+  font-family: sans-serif;
+  line-height: 0;
+}
+.sec8 p {
+  color: #918f90;
+  font-family: sans-serif;
+  font-size: 18px;
+  line-height: 24px;
+  margin: 0 0 10px 0;
+}
+.mainsec6 {
+  margin: 200px auto 0;
+  text-align: center;
+  width: 1320px;
+}
+.sec9 {
+  text-align: center;
+}
+.sec9 p {
+  width: 50%;
+  margin: auto;
+  color: #918f90;
+  font-family: sans-serif;
+  font-size: 18px;
+  line-height: 24px;
+}
+.bannerdiv1 {
+  width: 100%;
+  margin: 100px 0 0 0;
+  display: flex;
+}
+.one {
+  width: 50%;
+  display: flex;
+  justify-content: end;
+  flex-direction: column;
+  margin-left: 100px;
+  text-align: center;
+  margin-bottom: -150px;
+  z-index: 1;
+}
+.two {
+  width: 20%;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  margin-right: 0px;
+  z-index: 1;
+  margin-right: -100px;
+}
+.three {
+  width: 30%;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  margin: 0 -100px 0 0px;
+}
+.bannerdiv2 {
+  margin: 0;
+}
+.mainsec7 {
+  margin: 100px auto;
+  width: 1320px;
+}
+.sec10 h5 {
+  color: #ff0000;
+  font-size: 24px;
+  margin: 0 0 15px 0;
+}
+.sec10 h3 {
+  font-size: 48px;
+  font-family: "Merriweather", serif;
+  margin: 0 0 15px 0;
+}
+.sec10 p {
+  width: 70%;
+  color: #918f90;
+  font-family: sans-serif;
+  font-size: 18px;
+  line-height: 24px;
+  margin: 0 0 15px 0;
+}
+.sec11 {
+  width: 100%;
+  margin: 40px 0;
+  display: grid;
+  grid-template-areas:
+    "div div div"
+    "div div div";
+  grid-gap: 20px;
+}
+.sec11 div:hover {
+  scale: 1.02;
+  transition: 1000ms;
+}
+.mainsec8 {
+  width: 1320px;
+  height: 616px;
+  margin: auto;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  background-color: #fff2f2;
+  border-radius: 15px;
+}
+.sec12 h3 {
+  font-size: 48px;
+  font-family: "Merriweather", serif;
+  margin: 0 0 15px 0;
+}
+.sec12 p {
+  width: 70%;
+  color: #918f90;
+  font-family: sans-serif;
+  font-size: 18px;
+  line-height: 24px;
+  margin: auto;
+}
+.newsletter {
+  margin: 50px auto 100px;
+  width: 46%;
+  display: flex;
+}
+.newsletterspace {
+  width: 100%;
+}
+.newsletterbutton {
+  margin-top: 20px;
+}
+footer {
+  height: 500px;
+  background-color: black;
+  color: white;
+  margin: 100px auto 0;
+  padding-top: 80px;
+}
+.footcont {
+  width: 1320px;
+  margin: auto;
+}
+.foot h5 {
+  font-family: sans-serif;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 24px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+.foot2 {
+  text-align: left;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  margin-left: 500px;
+}
+footer hr {
+  display: block;
+  margin: auto;
+  height: 1px;
+  border: 0;
+  border-top: 0.05px solid #1a1a1a;
+}
+.social {
+  text-align: center;
+  padding: 50px;
+}
+.social img {
+  margin: 10px;
+}
+.copyright {
+  width: 1320px;
+  margin: 0 auto;
+  font-family: sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 24px;
+  padding-top: 50px;
+}
+.unsubscribe {
+  text-align: right;
+}
